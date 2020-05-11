@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>Hello World</title>
-    <url>/2020/05/11/hello-world/</url>
+    <url>/posts/16107.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-wrap"autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" contenteditable="true"data-rel="BASH"><figure class="iseeu highlight /bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure></div>
 
@@ -19,8 +19,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>博客搭建教程（二）</title>
-    <url>/2020/05/11/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</url>
+    <title>博客搭建教程</title>
+    <url>/posts/51280.html</url>
     <content><![CDATA[<blockquote>
 <p>注：这是一份很详细的关于Next5主题的博客搭建教程</p>
 </blockquote>
@@ -129,7 +129,7 @@
 <h3 id="md文件设置"><a href="#md文件设置" class="headerlink" title="md文件设置"></a>md文件设置</h3><p>title: tags<br>date: 2017-12-02 21:01:24<br>type: “tags”  </p>
 <h3 id="基本设置"><a href="#基本设置" class="headerlink" title="基本设置"></a>基本设置</h3><p>tags:<br>    - hexo+next</p>
 <h2 id="新建分类"><a href="#新建分类" class="headerlink" title="新建分类"></a>新建分类</h2><p><code>hexo new page categories</code></p>
-<h3 id="md文件设置-1"><a href="#md文件设置-1" class="headerlink" title="md文件设置"></a>md文件设置</h3><p>title: categories<br>date: 2017-12-02 21:01:24<br>type: “categories”  </p>
+<h3 id="md文件设置-1"><a href="#md文件设置-1" class="headerlink" title="md文件设置"></a>md文件设置</h3><p>title: categories<br>date: 2017-12-02 21:01:24<br>type: “categories”   </p>
 <h3 id="基本设置-1"><a href="#基本设置-1" class="headerlink" title="基本设置"></a>基本设置</h3><p>categories: 技术汇总</p>
 <h2 id="新建友情链接"><a href="#新建友情链接" class="headerlink" title="新建友情链接"></a>新建友情链接</h2><p><code>$ hexo new page links</code></p>
 <p>然后在根目录/source下会生成一个links文件夹，打开其中的index.md文件，在头部写入type = “links”，如下:</p>
@@ -142,12 +142,25 @@
 <p>post_meta:<br>  item_text: true  # 是否显示对应的文字<br>  created_at: true  # 是否显示 创建于<br>  updated_at:       # 是否显示 更新于<br>    enabled: false<br>    # 更新日期显示规则，只有更新日期与创建日期不同时，才会显示<br>    another_day: true<br>  categories: true # 是否显示分类信息  </p>
 <h2 id="文章字数统计设置"><a href="#文章字数统计设置" class="headerlink" title="文章字数统计设置"></a>文章字数统计设置</h2><p>在站点根目录打开 git bash，输入<code>npm i --save hexo-wordcount</code></p>
 <p>进入主题配置文件 _config.yml，修改如下配置：</p>
-<h1 id="Post-wordcount-display-settings"><a href="#Post-wordcount-display-settings" class="headerlink" title="Post wordcount display settings"></a>Post wordcount display settings</h1><h1 id="Dependencies-https-github-com-willin-hexo-wordcount"><a href="#Dependencies-https-github-com-willin-hexo-wordcount" class="headerlink" title="Dependencies: https://github.com/willin/hexo-wordcount"></a>Dependencies: <a href="https://github.com/willin/hexo-wordcount" target="_blank" rel="noopener">https://github.com/willin/hexo-wordcount</a></h1><h1 id="文章字数展示设置"><a href="#文章字数展示设置" class="headerlink" title="文章字数展示设置"></a>文章字数展示设置</h1><p>post_wordcount:</p>
-<h1 id="文本显示"><a href="#文本显示" class="headerlink" title="文本显示"></a>文本显示</h1><p>  item_text: true</p>
-<h1 id="文章字数统计"><a href="#文章字数统计" class="headerlink" title="文章字数统计"></a>文章字数统计</h1><p>  wordcount: true</p>
-<h1 id="阅读时长"><a href="#阅读时长" class="headerlink" title="阅读时长"></a>阅读时长</h1><p>  min2read: true</p>
-<h1 id="站点总字数统计"><a href="#站点总字数统计" class="headerlink" title="站点总字数统计"></a>站点总字数统计</h1><p>  totalcount: false</p>
-<h1 id="该post-wordcount的所有设置另起一行显示"><a href="#该post-wordcount的所有设置另起一行显示" class="headerlink" title="该post_wordcount的所有设置另起一行显示"></a>该post_wordcount的所有设置另起一行显示</h1><p>  separated_meta: true</p>
+<p>Post wordcount display settings<br>Dependencies: <a href="https://github.com/willin/hexo-wordcount" target="_blank" rel="noopener">https://github.com/willin/hexo-wordcount</a><br>文章字数展示设置<br>post_wordcount:  </p>
+<h1 id="文本显示"><a href="#文本显示" class="headerlink" title="文本显示"></a>文本显示</h1><p>  item_text: true  </p>
+<h1 id="文章字数统计"><a href="#文章字数统计" class="headerlink" title="文章字数统计"></a>文章字数统计</h1><p>  wordcount: true  </p>
+<h1 id="阅读时长"><a href="#阅读时长" class="headerlink" title="阅读时长"></a>阅读时长</h1><p>  min2read: true  </p>
+<h1 id="站点总字数统计"><a href="#站点总字数统计" class="headerlink" title="站点总字数统计"></a>站点总字数统计</h1><p>  totalcount: false  </p>
+<h1 id="该post-wordcount的所有设置另起一行显示"><a href="#该post-wordcount的所有设置另起一行显示" class="headerlink" title="该post_wordcount的所有设置另起一行显示"></a>该post_wordcount的所有设置另起一行显示</h1><p>  separated_meta: true  </p>
+<h2 id="开启相关文章推荐功能"><a href="#开启相关文章推荐功能" class="headerlink" title="开启相关文章推荐功能"></a>开启相关文章推荐功能</h2><p>文件位置：D:\临时文件夹\myblog\blog\themes\next5_config.xml</p>
+<p>搜索 related_posts，找到如下配置：</p>
+<p>related_posts:<br>  enable: true  # 是否开启<br>  title: 相关文章推荐    # 标题<br>  display_in_home: false # 是否在首页显示，建议为false<br>  params:<br>    maxCount: 5   # 相关文章的最大数量<br>    #PPMixingRate: 0.0<br>    #isDate: false<br>    #isImage: false<br>    #isExcerpt: false  </p>
+<p>开启相关文章推荐需要安装<code>hexo-related-popular-posts</code>模块，即在 hexo站点根目录下使用<code>npm install hexo-related-popular-posts --save</code>安装模块，然后开启上面的相关文章功能就可以啦~</p>
+<h2 id="在文章底部增加版权信息"><a href="#在文章底部增加版权信息" class="headerlink" title="在文章底部增加版权信息"></a>在文章底部增加版权信息</h2><p>文件位置：D:\临时文件夹\myblog\blog\themes\next5_config.xml</p>
+<p>搜索 post_copyright，将enable改为false再进行操作！</p>
+<p><a href="https://www.cnblogs.com/php-linux/p/8416122.html" target="_blank" rel="noopener">点击这里查看修改方法</a></p>
+<h2 id="设置文字加密访问"><a href="#设置文字加密访问" class="headerlink" title="设置文字加密访问"></a>设置文字加密访问</h2><p><a href="https://www.baidu.com/link?url=WB1YWfwdGJXBfwE62un8udnzGstxPeFC2k_hgPjLWUcmys5yveh8FEjnGQrefNYbqhhcxybW_RmE1rjRWOoI7tK2BGGjaN1u6AI--6OtLMe&wd=&eqid=82a68d6500045fec000000045eb9871d" target="_blank" rel="noopener">点击这里查看修改方法</a></p>
+<h2 id="设置RSS订阅"><a href="#设置RSS订阅" class="headerlink" title="设置RSS订阅"></a>设置RSS订阅</h2><h3 id="安装RSS插件"><a href="#安装RSS插件" class="headerlink" title="安装RSS插件"></a>安装RSS插件</h3><p><code>npm install --save hexo-generator-feed</code></p>
+<h3 id="打开站点配置文件-config-yml进行修改"><a href="#打开站点配置文件-config-yml进行修改" class="headerlink" title="打开站点配置文件_config.yml进行修改"></a>打开站点配置文件_config.yml进行修改</h3><p>Extensions<br>Plugins: <a href="http://hexo.io/plugins/" target="_blank" rel="noopener">http://hexo.io/plugins/</a><br>plugins: hexo-generate-feed</p>
+<h3 id="打开主题配置文件-config-yml进行修改"><a href="#打开主题配置文件-config-yml进行修改" class="headerlink" title="打开主题配置文件_config.yml进行修改"></a>打开主题配置文件_config.yml进行修改</h3><p><code>rss: /atom.xml</code> // 注意：有一个空格</p>
+<p>#鸣谢以下文章为我提供idea#</p>
+<p><a href="https://bestzuo.cn/" target="_blank" rel="noopener">基本Next5优化的Sanarous</a><br><a href="https://www.liaofuzhan.com/" target="_blank" rel="noopener">基本Next5魔改的北宸</a><br><a href="http://www.lzblog.cn/" target="_blank" rel="noopener">基本Next5基本操作的Dear Blog</a><br><a href="https://blog.zuiyu1818.cn/" target="_blank" rel="noopener">基本文章链接优化的醉渔小站</a><br><a href="https://lewky.cn/" target="_blank" rel="noopener">Yulin Lewis’ Blog 大佬</a><br><a href="https://www.cnblogs.com/MuYunyun/p/6919600.html#_label5" target="_blank" rel="noopener">hexo摸爬滚打之进阶教程</a><br><a href="https://www.appinn.com/markdown/" target="_blank" rel="noopener">Markdown 语法说明 (简体中文版)</a><br><a href="https://www.baidu.com/link?url=QBL5ZLczcyCqiZOC6p9B9ieTN9DwinWvK5pg9-mtldpcRbG0MhC-ftPfLqWJXfN4&wd=&eqid=80e6f8dc0002fb3f000000045eb923a9" target="_blank" rel="noopener">提供RRS订阅的简书作者</a>  </p>
 ]]></content>
       <categories>
         <category>技术汇总</category>
@@ -158,7 +171,7 @@
   </entry>
   <entry>
     <title>博客搭建教程（一）</title>
-    <url>/2020/05/11/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B%EF%BC%88%E4%B8%80%EF%BC%89/</url>
+    <url>/posts/22570.html</url>
     <content><![CDATA[<blockquote>
 <p>注：这是一份很详细的关于Next5主题的博客搭建教程</p>
 </blockquote>
