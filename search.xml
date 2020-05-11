@@ -1,26 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/posts/16107.html</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-wrap"autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" contenteditable="true"data-rel="BASH"><figure class="iseeu highlight /bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-wrap"autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" contenteditable="true"data-rel="BASH"><figure class="iseeu highlight /bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-wrap"autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" contenteditable="true"data-rel="BASH"><figure class="iseeu highlight /bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-wrap"autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" contenteditable="true"data-rel="BASH"><figure class="iseeu highlight /bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>博客搭建教程</title>
-    <url>/posts/51280.html</url>
+    <url>/posts/20169.html</url>
     <content><![CDATA[<blockquote>
 <p>注：这是一份很详细的关于Next5主题的博客搭建教程</p>
 </blockquote>
@@ -159,8 +141,7 @@
 <h2 id="设置RSS订阅"><a href="#设置RSS订阅" class="headerlink" title="设置RSS订阅"></a>设置RSS订阅</h2><h3 id="安装RSS插件"><a href="#安装RSS插件" class="headerlink" title="安装RSS插件"></a>安装RSS插件</h3><p><code>npm install --save hexo-generator-feed</code></p>
 <h3 id="打开站点配置文件-config-yml进行修改"><a href="#打开站点配置文件-config-yml进行修改" class="headerlink" title="打开站点配置文件_config.yml进行修改"></a>打开站点配置文件_config.yml进行修改</h3><p>Extensions<br>Plugins: <a href="http://hexo.io/plugins/" target="_blank" rel="noopener">http://hexo.io/plugins/</a><br>plugins: hexo-generate-feed</p>
 <h3 id="打开主题配置文件-config-yml进行修改"><a href="#打开主题配置文件-config-yml进行修改" class="headerlink" title="打开主题配置文件_config.yml进行修改"></a>打开主题配置文件_config.yml进行修改</h3><p><code>rss: /atom.xml</code> // 注意：有一个空格</p>
-<p>#鸣谢以下文章为我提供idea#</p>
-<p><a href="https://bestzuo.cn/" target="_blank" rel="noopener">基本Next5优化的Sanarous</a><br><a href="https://www.liaofuzhan.com/" target="_blank" rel="noopener">基本Next5魔改的北宸</a><br><a href="http://www.lzblog.cn/" target="_blank" rel="noopener">基本Next5基本操作的Dear Blog</a><br><a href="https://blog.zuiyu1818.cn/" target="_blank" rel="noopener">基本文章链接优化的醉渔小站</a><br><a href="https://lewky.cn/" target="_blank" rel="noopener">Yulin Lewis’ Blog 大佬</a><br><a href="https://www.cnblogs.com/MuYunyun/p/6919600.html#_label5" target="_blank" rel="noopener">hexo摸爬滚打之进阶教程</a><br><a href="https://www.appinn.com/markdown/" target="_blank" rel="noopener">Markdown 语法说明 (简体中文版)</a><br><a href="https://www.baidu.com/link?url=QBL5ZLczcyCqiZOC6p9B9ieTN9DwinWvK5pg9-mtldpcRbG0MhC-ftPfLqWJXfN4&wd=&eqid=80e6f8dc0002fb3f000000045eb923a9" target="_blank" rel="noopener">提供RRS订阅的简书作者</a>  </p>
+<h1 id="鸣谢以下文章为我提供idea"><a href="#鸣谢以下文章为我提供idea" class="headerlink" title="鸣谢以下文章为我提供idea#"></a>鸣谢以下文章为我提供idea#</h1><p><a href="https://bestzuo.cn/" target="_blank" rel="noopener">基本Next5优化的Sanarous</a><br><a href="https://www.liaofuzhan.com/" target="_blank" rel="noopener">基本Next5魔改的北宸</a><br><a href="http://www.lzblog.cn/" target="_blank" rel="noopener">基本Next5基本操作的Dear Blog</a><br><a href="https://blog.zuiyu1818.cn/" target="_blank" rel="noopener">基本文章链接优化的醉渔小站</a><br><a href="https://lewky.cn/" target="_blank" rel="noopener">Yulin Lewis’ Blog 大佬</a><br><a href="https://www.cnblogs.com/MuYunyun/p/6919600.html#_label5" target="_blank" rel="noopener">hexo摸爬滚打之进阶教程</a><br><a href="https://www.appinn.com/markdown/" target="_blank" rel="noopener">Markdown 语法说明 (简体中文版)</a><br><a href="https://www.baidu.com/link?url=QBL5ZLczcyCqiZOC6p9B9ieTN9DwinWvK5pg9-mtldpcRbG0MhC-ftPfLqWJXfN4&wd=&eqid=80e6f8dc0002fb3f000000045eb923a9" target="_blank" rel="noopener">提供RRS订阅的简书作者</a>  </p>
 ]]></content>
       <categories>
         <category>技术汇总</category>
@@ -168,6 +149,24 @@
       <tags>
         <tag>hexo+next</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/posts/16107.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="highlight-wrap"autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" contenteditable="true"data-rel="BASH"><figure class="iseeu highlight /bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="highlight-wrap"autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" contenteditable="true"data-rel="BASH"><figure class="iseeu highlight /bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="highlight-wrap"autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" contenteditable="true"data-rel="BASH"><figure class="iseeu highlight /bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="highlight-wrap"autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" contenteditable="true"data-rel="BASH"><figure class="iseeu highlight /bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>
+]]></content>
   </entry>
   <entry>
     <title>博客搭建教程（一）</title>
