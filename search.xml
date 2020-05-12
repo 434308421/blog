@@ -271,6 +271,18 @@ npm install markdown-it-emoji --save</p>
 <p><a href="https://hasaik.com/posts/9b280ea3.html" target="_blank" rel="noopener">点击这里查看修改方法</a></p>
 <p>原因解释：<br>
 <a href="https://www.baidu.com/link?url=mXMtqwreEXHRG-oBNCEG3v5nW0yfsH9vl2NCkxUmGje83HWK721kBHCcn6uemsEwQnfB354TXDT6i9Mnv47Jg1rAN1zid0qOan9FWzdyx7_&amp;wd=&amp;eqid=e7dd5f850000108b000000045eba65cc" target="_blank" rel="noopener">点击这里查看</a></p>
+<h2 id="修改标题崩溃欺骗特效中图标"><a class="header-anchor" href="#修改标题崩溃欺骗特效中图标">¶</a>修改标题崩溃欺骗特效中图标</h2>
+<p><a href="https://hasaik.com/posts/ab21860c.html" target="_blank" rel="noopener">点击这里查看修改方法</a></p>
+<h2 id="修改鼠标点击特效"><a class="header-anchor" href="#修改鼠标点击特效">¶</a>修改鼠标点击特效</h2>
+<p><a href="https://www.liaofuzhan.com/posts/2114475547.html" target="_blank" rel="noopener">点击这里查看修改方法</a></p>
+<h2 id="修改博客底部Site-words-total-count及我已在此等候你"><a class="header-anchor" href="#修改博客底部Site-words-total-count及我已在此等候你">¶</a>修改博客底部Site words total count及我已在此等候你</h2>
+<p>文件位置：D:\临时文件夹\myblog\blog\themes\next5\languages\zh-Hans.yml</p>
+<h2 id="设置文字阅读量"><a class="header-anchor" href="#设置文字阅读量">¶</a>设置文字阅读量</h2>
+<p><a href="https://www.baidu.com/link?url=FXBBjNOdlv28DlRbJalLgMXHFCHgGBrO3HlhS1bx1TJxmvRN59gpGqJDyB5tYyG_My66KvhOXNmUX6GUjqFxQxWePINi_iytTq4A1m7O4Oi&amp;wd=&amp;eqid=cc2937cf0005c728000000045eba8ce0" target="_blank" rel="noopener">点击这里查看修改方法一</a></p>
+<p><a href="https://bestzuo.cn/posts/blog-establish.html" target="_blank" rel="noopener">点击这里查看修改方法二</a></p>
+<h2 id="添加博客热门文章页面-【待定】"><a class="header-anchor" href="#添加博客热门文章页面-【待定】">¶</a>添加博客热门文章页面 【待定】</h2>
+<p><a href="https://bestzuo.cn/posts/blog-establish.html" target="_blank" rel="noopener">点击这里查看修改方法一</a></p>
+<p><a href="https://hoxis.github.io/hexo-next-read-rank.html" target="_blank" rel="noopener">点击这里查看修改方法二</a></p>
 <h1>鸣谢以下文章为我提供idea</h1>
 <p><a href="https://bestzuo.cn/" target="_blank" rel="noopener">基本Next5优化的Sanarous</a><br>
 <a href="https://www.liaofuzhan.com/" target="_blank" rel="noopener">基本Next5魔改的北宸</a><br>
@@ -283,7 +295,9 @@ npm install markdown-it-emoji --save</p>
 <a href="https://immmmm.com/" target="_blank" rel="noopener">木木木木木</a><br>
 <a href="https://hasaik.com/" target="_blank" rel="noopener">Xu’s Blog</a><br>
 <a href="https://blog.pangao.vip/" target="_blank" rel="noopener">潘高的小站</a><br>
-<a href="https://www.xiaocoder.com/" target="_blank" rel="noopener">Xiao’s Blog</a></p>
+<a href="https://www.xiaocoder.com/" target="_blank" rel="noopener">Xiao’s Blog</a><br>
+<a href="https://blog.csdn.net/nightmare_dimple/article/details/86661474" target="_blank" rel="noopener">Hexo博客优化之内容编辑</a><br>
+<a href="http://qiujiaqi.cn/hexo/theme-optimization/" target="_blank" rel="noopener">QiuJiaqi’s Home</a></p>
 ]]></content>
       <categories>
         <category>技术汇总</category>
