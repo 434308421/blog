@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>博客搭建教程</title>
-    <url>/blog/posts/20169.html</url>
+    <url>/posts/20169.html</url>
     <content><![CDATA[<blockquote>
 <p>注：这是一份很详细的关于Next5主题的博客搭建教程</p>
 </blockquote>
@@ -308,7 +308,7 @@ npm install markdown-it-emoji --save</p>
   </entry>
   <entry>
     <title>智慧职教云课堂刷课、补签、查作业考试答案软件</title>
-    <url>/blog/posts/23332.html</url>
+    <url>/posts/23332.html</url>
     <content><![CDATA[<h1>计科/搜索分享/无知</h1>
 <h2 id="智慧职教云课堂刷课、补签、查作业考试答案软件"><a class="header-anchor" href="#智慧职教云课堂刷课、补签、查作业考试答案软件">¶</a>智慧职教云课堂刷课、补签、查作业考试答案软件</h2>
 <p>功能：刷课、补签、查作业考试</p>
@@ -329,7 +329,7 @@ npm install markdown-it-emoji --save</p>
   </entry>
   <entry>
     <title>博客搭建教程（一）</title>
-    <url>/blog/posts/22570.html</url>
+    <url>/posts/22570.html</url>
     <content><![CDATA[<blockquote>
 <p>注：这是一份很详细的关于Next5主题的博客搭建教程</p>
 </blockquote>
@@ -534,7 +534,7 @@ type: “links”<br>
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/blog/posts/16107.html</url>
+    <url>/posts/16107.html</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <h2 id="Quick-Start"><a class="header-anchor" href="#Quick-Start">¶</a>Quick Start</h2>
 <h3 id="Create-a-new-post"><a class="header-anchor" href="#Create-a-new-post">¶</a>Create a new post</h3>
